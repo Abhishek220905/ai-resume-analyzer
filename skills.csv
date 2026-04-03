@@ -1,0 +1,34 @@
+skill,category
+python,Programming
+java,Programming
+c++,Programming
+javascript,Programming
+react,Frontend
+angular,Frontend
+html,Frontend
+css,Frontend
+node.js,Backend
+django,Backend
+flask,Backend
+sql,Database
+mysql,Database
+mongodb,Database
+data analysis,Data
+machine learning,Data
+deep learning,Data
+nlp,Data
+pandas,Data
+numpy,Data
+power bi,Data
+tableau,Data
+aws,Cloud
+azure,Cloud
+docker,DevOps
+kubernetes,DevOps
+git,Tools
+github,Tools
+linux,Tools
+communication,Soft Skills
+teamwork,Soft Skills
+problem solving,Soft Skills
+leadership,Soft Skills
